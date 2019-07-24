@@ -1,4 +1,4 @@
-(module QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm (layer F.Cu) (tedit 5D2F6D86)
+(module QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm (layer F.Cu) (tedit 5D38A81C)
   (descr "QFN, 48 Pin (https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf#page=38), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
   (tags "QFN DFN_QFN")
   (attr smd)
@@ -85,7 +85,7 @@
   (pad 46 smd roundrect (at -1.4 -2.95) (size 0.2 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 47 smd roundrect (at -1.8 -2.95) (size 0.2 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 48 smd roundrect (at -2.2 -2.95) (size 0.2 0.8) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KIPRJMOD}/modules/ESP32.pretty/QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm.step
+  (model ${KIPRJMOD}/kicad-lib/modules/packages3d/ESP32.3dshapes/QFN-48-1EP_6x6mm_P0.4mm_EP4.3x4.3mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
