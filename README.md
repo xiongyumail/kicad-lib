@@ -1,12 +1,22 @@
 # KICAD-LIB
 
-_Kicad 元器件库(集成库)_
+_Kicad 元器件库_
 
-* library
 
-  - 原理图库
 
-* modules
-  - PCB库
+## library
 
-  - 3D库
+```bash
+cp sym-lib-table ../
+```
+* 原理图库
+
+## modules
+
+```bash
+cp fp-lib-table ../
+```
+
+* PCB库
+
+* 3D库
