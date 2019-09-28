@@ -197,4 +197,5 @@
   (lib (name DCDC)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/library/DCDC.lib)(options "")(descr ""))
   (lib (name LDO)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/library/LDO.lib)(options "")(descr ""))
   (lib (name APDS-9960)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/library/APDS-9960.lib)(options "")(descr ""))
+  (lib (name BATT)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/library/BATT.lib)(options "")(descr ""))
 )
