@@ -128,4 +128,5 @@
   (lib (name Valve)(type KiCad)(uri ${KISYSMOD}/Valve.pretty)(options "")(descr ""))
   (lib (name Varistor)(type KiCad)(uri ${KISYSMOD}/Varistor.pretty)(options "")(descr ""))
   (lib (name APDS-9960)(type KiCad)(uri ${KIPRJMOD}/kicad-lib/modules/APDS-9960.pretty)(options "")(descr ""))
+  (lib (name ANT)(type KiCad)(uri ${KIPRJMOD}/kicad-lib/modules/ANT.pretty)(options "")(descr ""))
 )
