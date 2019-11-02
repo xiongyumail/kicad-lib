@@ -200,4 +200,5 @@
   (lib (name APDS-9960)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/library/APDS-9960.lib)(options "")(descr ""))
   (lib (name ANT)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/library/ANT.lib)(options "")(descr ""))
   (lib (name JACK)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/library/JACK.lib)(options "")(descr ""))
+  (lib (name RGB_LED)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/library/RGB_LED.lib)(options "")(descr ""))
 )
