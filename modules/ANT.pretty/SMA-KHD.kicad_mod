@@ -18,7 +18,7 @@
   (pad 2 thru_hole circle (at -2.47 2.5) (size 2.385 2.385) (drill 1.59) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2.61 -2.58) (size 2.385 2.385) (drill 1.59) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.61 2.5) (size 2.385 2.385) (drill 1.59) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/kicad-lib/modules/packages3d/ANT.3dshapes/SMA-KHD.STEP
+  (model ${KIPRJMOD}/kicad-lib/packages3d/ANT.3dshapes/SMA-KHD.STEP
     (offset (xyz 3.2 0 7.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -90 0))

@@ -29,7 +29,7 @@
   (pad 5 smd rect (at 0.535 2.15) (size 1.35 4.2) (layers *.Paste *.Mask B.Cu))
   (pad 4 smd rect (at 6.185 2.15) (size 1.35 4.2) (layers *.Paste *.Mask B.Cu))
   (pad 1 smd rect (at 3.35 2.34) (size 1.27 3.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/kicad-lib/modules/packages3d/ANT.3dshapes/SMA-KE.STEP
+  (model ${KIPRJMOD}/kicad-lib/packages3d/ANT.3dshapes/SMA-KE.STEP
     (offset (xyz 3.3 -4.6 -0.4))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 -180 180))

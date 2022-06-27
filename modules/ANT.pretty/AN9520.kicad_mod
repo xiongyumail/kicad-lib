@@ -10,7 +10,7 @@
   (fp_arc (start 1.21 1) (end 1.239999 1.009999) (angle -357.8794542) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at 0 1.06) (size 1.4 2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 9.5 1.06) (size 1.4 2) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/kicad-lib/modules/packages3d/ANT.3dshapes/AN9520.step
+  (model ${KIPRJMOD}/kicad-lib/packages3d/ANT.3dshapes/AN9520.step
     (offset (xyz 4.75 -1.05 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

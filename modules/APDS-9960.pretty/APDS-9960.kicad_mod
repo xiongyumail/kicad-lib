@@ -27,7 +27,7 @@
   (pad 4 smd rect (at 0.7 3.585) (size 0.6 0.72) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -0.7 3.585) (size 0.6 0.72) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.7 1.645) (size 0.6 0.72) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/kicad-lib/modules/packages3d/APDS-9960.3dshapes/APDS-9960.STEP
+  (model ${KIPRJMOD}/kicad-lib/packages3d/APDS-9960.3dshapes/APDS-9960.STEP
     (offset (xyz -0.01 -2.2 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))

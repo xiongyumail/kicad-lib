@@ -42,7 +42,7 @@
   (pad 3 thru_hole circle (at 2.49 -2.61) (size 2.5527 2.5527) (drill 1.7018) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -0.05 -0.07) (size 2.667 2.667) (drill 1.778) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 2.49 2.47) (size 2.5527 2.5527) (drill 1.7018) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/kicad-lib/modules/packages3d/ANT.3dshapes/SMA-KWE.STEP
+  (model ${KIPRJMOD}/kicad-lib/packages3d/ANT.3dshapes/SMA-KWE.STEP
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
